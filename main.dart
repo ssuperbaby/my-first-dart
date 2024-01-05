@@ -1,3 +1,5 @@
 void main() {
-  print('hi');
+  late final name;
+  name = "안녕";
+  print(name);
 }
